@@ -1,0 +1,19 @@
+{
+  "name": "tests",
+  "main": "tests.js",
+  "version": "0.0.0",
+  "authors": [
+    "Joshua Lagrange <jlagrange87@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "~2.3.0"
+  }
+}
